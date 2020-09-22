@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/filterreactsearch/static/css/main.5f361e03.chunk.css",
+    "main.js": "/filterreactsearch/static/js/main.28d2d538.chunk.js",
+    "main.js.map": "/filterreactsearch/static/js/main.28d2d538.chunk.js.map",
+    "runtime-main.js": "/filterreactsearch/static/js/runtime-main.bf5468d8.js",
+    "runtime-main.js.map": "/filterreactsearch/static/js/runtime-main.bf5468d8.js.map",
+    "static/js/2.6f894ee8.chunk.js": "/filterreactsearch/static/js/2.6f894ee8.chunk.js",
+    "static/js/2.6f894ee8.chunk.js.map": "/filterreactsearch/static/js/2.6f894ee8.chunk.js.map",
+    "index.html": "/filterreactsearch/index.html",
+    "precache-manifest.845fff3a4d26993824078cba5a7352a0.js": "/filterreactsearch/precache-manifest.845fff3a4d26993824078cba5a7352a0.js",
+    "service-worker.js": "/filterreactsearch/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/filterreactsearch/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6f894ee8.chunk.js.LICENSE.txt": "/filterreactsearch/static/js/2.6f894ee8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf5468d8.js",
+    "static/js/2.6f894ee8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.28d2d538.chunk.js"
+  ]
+}
